@@ -1,6 +1,6 @@
-You should create one R script called run_analysis.R that does the following.
+R script called run_analysis.R does the following.
 
-IT WILL MERGE BOTH SETS TO CREATE ONE DATA SET.
+IT MERGE BOTH SETS TO CREATE ONE DATA SET.
 
 Extracts only the measurements on the mean and standard deviation for each measurement.
 
